@@ -33,4 +33,8 @@ $ git commit -m "ejercicioCD_2"
 6. Eliminando el directorio out.
    ![Creación de proyecto](capturas/Captura6.PNG)
 
-7. 
+7. Añado el README.
+   ![Creación de proyecto](capturas/Captura7.PNG)
+
+8. Introducido problema a solucionar.
+   ![Creación de proyecto](capturas/Captura8.PNG)

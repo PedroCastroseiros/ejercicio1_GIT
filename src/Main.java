@@ -7,5 +7,7 @@ public class Main {
 
         Alumno p = new Alumno("Pedro Castroseiros", new Date(2002, Calendar.JULY, 28));
         System.out.println(p);
+
+        p.nombre = "0tro nombre"; // TODO: el nombre del alumno no debería poderse cambiar (inmutable)
     }
 }
