@@ -22,3 +22,15 @@ $ git status
 $ git add .
 $ git commit -m "ejercicioCD_2"
 ```
+4. Añado gitignore
+   ![Creación de proyecto](capturas/Captura2.PNG)
+
+5. Programa que crea y muestra un objeto empleado
+   ![Creación de proyecto](capturas/Captura3.PNG)
+   ![Creación de proyecto](capturas/Captura4.PNG)
+   ![Creación de proyecto](capturas/Captura5.PNG)
+
+6. Eliminando el directorio out.
+   ![Creación de proyecto](capturas/Captura6.PNG)
+
+7. 
