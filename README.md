@@ -17,24 +17,24 @@ $ git commit -m "ejercicioCD_1"
 ```bash
 $ git status
 ```
-![Creación de proyecto](capturas/Captura1.PNG)
+![Commit](capturas/Captura1.PNG)
 ```bash
 $ git add .
 $ git commit -m "ejercicioCD_2"
 ```
 4. Añado gitignore
-   ![Creación de proyecto](capturas/Captura2.PNG)
+   ![gitignore](capturas/Captura2.PNG)
 
 5. Programa que crea y muestra un objeto empleado
-   ![Creación de proyecto](capturas/Captura3.PNG)
-   ![Creación de proyecto](capturas/Captura4.PNG)
-   ![Creación de proyecto](capturas/Captura5.PNG)
+   ![objeto](capturas/Captura3.PNG)
+   ![objeto](capturas/Captura4.PNG)
+   ![objeto](capturas/Captura5.PNG)
 
 6. Eliminando el directorio out.
-   ![Creación de proyecto](capturas/Captura6.PNG)
+   ![eliminarout](capturas/Captura6.PNG)
 
 7. Añado el README.
-   ![Creación de proyecto](capturas/Captura7.PNG)
+   ![añadiendoREADME](capturas/Captura7.PNG)
 
 8. Introducido problema a solucionar.
-   ![Creación de proyecto](capturas/Captura8.PNG)
+   ![Problemaasolucionar](capturas/Captura8.PNG)
